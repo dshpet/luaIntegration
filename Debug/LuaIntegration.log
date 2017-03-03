@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _lua_close referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _luaL_newstate referenced in function _main
+..\lua-5.3.4\src\lua-static.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\shpetnyi\documents\visual studio 2015\Projects\LuaIntegration\Debug\LuaIntegration.exe : fatal error LNK1120: 2 unresolved externals

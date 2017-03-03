@@ -1,0 +1,29 @@
+﻿  main.cpp
+  
+  Searching libraries
+      Searching ..\lua-5.3.4\src\lua-static.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\MSVCRTD.lib:
+        Found _RTC_CheckStackVars
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(_stack_.obj)
+  
+  Finished searching libraries
+  Starting pass 2
+       main.obj
+       MSVCRTD.lib(_stack_.obj)
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  LuaIntegration.vcxproj -> C:\Users\shpetnyi\documents\visual studio 2015\Projects\LuaIntegration\x64\Debug\LuaIntegration.exe
+  LuaIntegration.vcxproj -> C:\Users\shpetnyi\documents\visual studio 2015\Projects\LuaIntegration\x64\Debug\LuaIntegration.pdb (Partial PDB)
